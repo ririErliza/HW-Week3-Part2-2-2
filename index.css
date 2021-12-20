@@ -123,15 +123,14 @@
     position:absolute;
     text-align:center;
     color:white;
-    font-family: 'helvetica';
-    font-weight: bold;
+    font-size: 12px;
     background-color:rgb(58, 145, 137);
     border-radius: 10px;
     cursor:pointer;
     left:10px;
     bottom:10px;
     z-index:10;
-    width: 160px;
+    width: 180px;
     height: 40px;
     display:flex;
     justify-content:center;
